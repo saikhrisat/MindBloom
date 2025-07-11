@@ -1,5 +1,9 @@
 # MindBloom: AI-Powered Mind Mapping
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Try%20Now-brightgreen?style=for-the-badge&logo=vercel)](https://mindbloom-vercel-final.vercel.app/)
+
+**🚀 [Try MindBloom Live](https://mindbloom-vercel-final.vercel.app/)**
+
 MindBloom is a modern, web-based mind mapping application designed to help you visually organize thoughts, brainstorm ideas, and structure information in an intuitive and fluid way. It solves the limitations of linear note-taking by providing a dynamic, expandable canvas where ideas can grow and connect organically.
 
 The application is enhanced with AI-powered features to help users overcome creative blocks and explore new avenues of thought, making it a powerful tool for students, writers, developers, and project managers.
